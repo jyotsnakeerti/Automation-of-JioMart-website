@@ -9,11 +9,11 @@ This project automates various functionalities on the JioMart website using Sele
 -  **Browser Driver:** ChromeDriver
 
 ## Features
-**Login and OTP Entry:** Automates the login process and OTP entry for authentication.
-**Product Search:** Searches for products based on keywords.
-**Add to Cart:** Adds items to the cart.
-**Cart Management:** Increment and decrement item quantities in the cart.
-**Navigation:** Navigate to cart, profile, and home pages.
+- **Login and OTP Entry:** Automates the login process and OTP entry for authentication.
+- **Product Search:** Searches for products based on keywords.
+- **Add to Cart:** Adds items to the cart.
+- **Cart Management:** Increment and decrement item quantities in the cart.
+- **Navigation:** Navigate to cart, profile, and home pages.
 
 ## Installation
 Download and set up ChromeDriver
